@@ -1,6 +1,6 @@
 import os
 
-from ujson import loads # pip install ujson
+from ujson import loads
 import aiofiles
 
 
